@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Nitya
 
-<!--
-**nitya-tech-new/nitya-tech-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSIT Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about:
+- Machine Learning
+- Data Analytics
+- Web Development
+- Open Source
+
+🌱 Currently Learning:
+- Python
+- SQL
+- Data Science
+- Git & GitHub
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+## 📂 Featured Projects
+
+### 🌾 Crop Recommendation System
+Machine learning project that recommends suitable crops based on environmental and soil conditions.
+
+### 📊 Agricultural Analytics Dashboard
+Data visualization and trend analysis for agricultural datasets.
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitya-tech-new&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-tech-new&layout=compact)
+
+## 🎯 2026 Goals
+
+- Secure a Software/ML Internship
+- Contribute to Open Source
+- Strengthen DSA Skills
+- Build Production-Ready Projects
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/nitya-tech-new
+
+---
+⭐ Always learning, building, and improving.
